@@ -9,15 +9,15 @@
   min-height: 400px; }
 
 .footer {
-  background-color: #D1C4E9;
+  background-color: #bf3939;
   margin: 0px auto;
   padding: 20px 0px; }
 
 .jumbotron {
   margin: 0px auto;
   padding: 70px 30px;
-  background: #D1D0CE;
-  color: floralwhite; }
+  background: #e3d540;
+  color: black; }
 
 address {
   font-size: 80%;
@@ -29,7 +29,7 @@ body {
   z-index: 0; }
 
 .navbar-dark {
-  background-color: #301b1e }
+  background-color: #5a5963 }
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -77,3 +77,6 @@ body {
     width:100%;
     position:absolute;
     }
+    
+    
+    
